@@ -1,15 +1,13 @@
 package hospital.com.service;
 
-import hospital.com.Department;
+import hospital.com.model.Department;
 import hospital.com.model.Hospital;
 import hospital.com.model.Soul;
 import hospital.com.model.Doctor;
 import lombok.Data;
 
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.TreeMap;
+
 @Data
 public class HospitalService {
 

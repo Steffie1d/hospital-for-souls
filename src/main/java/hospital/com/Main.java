@@ -1,10 +1,10 @@
 package hospital.com;
 
+import hospital.com.model.Department;
 import hospital.com.model.Hospital;
 import hospital.com.model.Soul;
 import hospital.com.service.HospitalService;
 
-import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;

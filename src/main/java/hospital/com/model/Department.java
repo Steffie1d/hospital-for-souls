@@ -1,4 +1,4 @@
-package hospital.com;
+package hospital.com.model;
 
 import hospital.com.model.Doctor;
 import hospital.com.model.Soul;

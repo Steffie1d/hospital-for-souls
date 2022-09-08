@@ -1,10 +1,8 @@
 package hospital.com.model;
 
-import hospital.com.Department;
 import lombok.Data;
 
 import java.util.Map;
-import java.util.Set;
 
 @Data
 public class Hospital {

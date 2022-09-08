@@ -1,7 +1,5 @@
 package hospital.com.model;
 
-import hospital.com.Department;
-
 public class Soul {
 
   private String name;

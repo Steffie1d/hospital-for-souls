@@ -1,6 +1,5 @@
 package hospital.com.model;
 
-import hospital.com.Department;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.Accessors;
